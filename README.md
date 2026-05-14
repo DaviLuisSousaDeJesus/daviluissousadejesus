@@ -7,4 +7,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLuisSousaDeJesus&layout=compact&langs_count=8&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviLuisSousaDeJesus&theme=dracula)
